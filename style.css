@@ -299,6 +299,9 @@
 #bezier #mainWindow #mainRightWindow #mainRightButton {
   background-color: #00BFFF;
 }
+#bezier #mainWindow table th, #bezier #mainWindow table td {
+  border: 1px black solid;
+}
 #bezier #mainWindow .buttonBox {
   height: 50px;
 }

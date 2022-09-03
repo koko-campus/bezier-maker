@@ -294,6 +294,11 @@ $sizeBorder: 1200;
 				background-color: #00BFFF;
 			}
 		}
+		table {
+			th, td {
+				border: 1px black solid;
+			}
+		}
 		.buttonBox {
 			height: 50px;
 			.button {
